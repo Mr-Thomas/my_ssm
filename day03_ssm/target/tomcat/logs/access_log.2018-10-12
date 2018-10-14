@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [12/Oct/2018:23:55:56 +0800] "GET /day03_ssm HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [12/Oct/2018:23:55:57 +0800] "GET /day03_ssm/ HTTP/1.1" 200 847 http-bio-8080-exec-3 888
+0:0:0:0:0:0:0:1 - - [12/Oct/2018:23:56:00 +0800] "GET /day03_ssm/account/initUpdate HTTP/1.1" 404 1043 http-bio-8080-exec-4 70
+0:0:0:0:0:0:0:1 - - [12/Oct/2018:23:57:51 +0800] "GET /day03_ssm HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [12/Oct/2018:23:57:51 +0800] "GET /day03_ssm/ HTTP/1.1" 200 847 http-bio-8080-exec-3 75
+0:0:0:0:0:0:0:1 - - [12/Oct/2018:23:57:53 +0800] "GET /day03_ssm/account/initUpdate HTTP/1.1" 404 1043 http-bio-8080-exec-4 114
